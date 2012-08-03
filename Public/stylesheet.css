@@ -76,6 +76,50 @@ float: left;
 	
 }
 
+#header3 {
+	margin: 10px auto;
+	width: 960px;	
+	height: 45px; 
+	font-family: Impact; 
+	color: Tomato; 
+	text-align: center; 
+}
+
+#A {
+	margin: 10px;
+	font-family: Times;
+	color: Purple;
+}
+
+#B {
+	margin: 10px;
+	font-family: Times;
+	color: Purple;
+}
+
+#C {
+	margin: 10px;
+	font-family: Times;
+	color: Purple;
+}
+
+#D {
+	margin: 10px;
+	font-family: Times;
+	color: Purple;
+}
+
+#E {
+	margin: 10px;
+	font-family: Times;
+	color: Purple;
+}
+
+text {
+	margin: 40px;
+	text-align: center;
+	width: 960px;
+}
 
 li	{
 	display:inline;
