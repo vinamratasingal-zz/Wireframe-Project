@@ -1,0 +1,86 @@
+/**
+ * Wireframe/Splash Page
+ */
+*{	
+	margin: 0;
+	padding: 0;
+}
+body {
+	background:Wheat;
+}
+
+#header {
+	margin: 10px auto;
+	width: 960px;	
+	height: 45px; 
+	font-family: Impact; 
+	color: Tomato; 
+	text-align: center; 
+}	
+#header2 {
+	margin: 0 auto;
+	width: 960px; 
+	height: 43px; 
+	font-family: Impact; 
+	color: Indigo;
+	text-align: center;  
+}
+#how_it_works {
+	clear: both;
+	overflow: auto;
+}
+
+.how_it_works {
+	margin: 0 20px;
+}
+
+#prevent_float {
+	width: 1150px;
+}
+
+#step_1 {
+width:250px;
+font-family:Century Gothic; 
+border: 4px black dashed;
+padding: 20px; 
+background: thistle;
+border-radius: 15px;   
+float: left;
+	}
+	
+#step_2 {
+width: 250px; 
+font-family: Century Gothic; 
+ border: 4px black dashed;
+ padding: 20px; 
+background: thistle;  
+border-radius: 15px;  
+float: left;
+}
+
+#step_3{
+width:250px;
+font-family: Century Gothic; 
+border: 4px black dashed;
+padding: 20px; 
+background: thistle; 
+border-radius: 15px;  
+float: left;
+}
+
+
+#footer {
+	font-family: Gill Sans, Monaco, Monospace; 
+	color: BlueViolet; 
+	font-size: 26px; 
+	
+}
+
+
+li	{
+	display:inline;
+	padding: 40px; 
+	color: Blue;
+	font-family:Copperplate Gothic Light;   
+	font-size: 20px; 	
+	}
